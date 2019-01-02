@@ -1,0 +1,70 @@
+* {
+  font-family: Raleway;
+}
+
+textarea {
+  width: 30rem !important;
+  margin: 1rem auto;
+  resize: none;
+  height: 12rem !important;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.badge {
+  font-size: 1.1rem !important;
+  font-weight: 300;
+  margin: 0 .2rem;
+  padding: .5rem 1rem;
+}
+
+.btn {
+  width: 5rem;
+  margin: .3rem auto;
+}
+
+.textarea-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.alert-primary {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 3rem;
+  flex-wrap: wrap;
+}
+
+.alert {
+  max-width: 30rem;
+  margin: .3rem auto;
+}
+
+
+table {
+  margin: auto;
+  min-width: 20rem;
+  max-width: 100vw;
+}
+
+h5 {
+  margin: 1rem;
+  text-align: center;
+}
+
+.row-name {
+  border-bottom: 1px solid #333;
+}
+
+.table-title-container {
+  margin: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
